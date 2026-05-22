@@ -18,7 +18,7 @@ Bienvenue dans mon parcours d’apprentissage de Elixir.
 
 - [x] Introduction
 - [x] Hello World
-- [ ] Variables
+- [x] Variables
 - [ ] Pattern Matching
 - [ ] Recursion
 - [ ] Processes
